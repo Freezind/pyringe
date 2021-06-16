@@ -1,5 +1,8 @@
 **DISCLAIMER: This is not an official google project, this is just something I wrote while at Google.**
 
+# Pyringe for 2.7
+This is forked from [google/pyringe](https://github.com/google/pyringe). I appiled the patch to enable it debug python2.7.
+
 Pyringe
 =======
 
